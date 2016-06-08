@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:23.394798
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:17
 #+TITLE: 彌勒上生經宗要
 #+PROPERTY: CBETA_ID T38n1773
 #+PROPERTY: ID KR6i0039
